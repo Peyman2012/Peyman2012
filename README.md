@@ -2,7 +2,7 @@
 
 ![k2_items_src_cfaabb8516419b6306a32ebddb690906-960x540](https://github.com/Peyman2012/Peyman2012/assets/88220773/c58b1213-e2a8-4dd4-b357-bcb95a3d3b3d)
 
-<h3 align="center"><img src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="50px"> A passionate developer Who loves to build things! <img src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="50px"> </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="50px"> A passionate Programmer Who loves to build things! <img src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="50px"> </h3>
 
    <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
