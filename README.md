@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - <h2 align="left">🧠 Languages and Tools:</h2>
 
      [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,git,gitlab,linux)](https://skillicons.dev)
+## 📊 GitHub Stats
 
      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyman2012&hide_progress=true)
 
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
   &nbsp;
   <a href="[https://github.com/arasgungor](https://github.com/Peyman2012)e" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;
+
+  
 
    </a>
 </div>
