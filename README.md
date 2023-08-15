@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
      [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,git,gitlab,linux)](https://skillicons.dev)
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyman2012&hide_progress=true)
 
 
