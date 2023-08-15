@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - <img src="https://media.giphy.com/media/sKXGDl3OvWTBLNS6y2/giphy.gif" width="30"/>&nbsp;&nbsp;&nbsp; I’m looking to collaborate on **open-source programs**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python**
 
-**⚙ Skills**
+## ⚙ _Skills_
 
 - <h2 align="left">🧠 Languages and Tools:</h2>
 
      [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,git,gitlab,linux)](https://skillicons.dev)
 
-## 📇 Social & Contact
+## 📇 _Social & Contact_
 
 <div align="left">
   <a href="peimandaii2012@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
