@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 
 ## ⚙ _Skills_
 
-   - <h2 align="left">🧠 Languages and Tools:</h2>
+   -  **🧠 _Programming:_**
 
-     [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,git,gitlab,linux)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,linux)](https://skillicons.dev)
+   - **🛠 _Technologies:_**
+     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+     <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+     
+     
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyman2012&hide_progress=true)
