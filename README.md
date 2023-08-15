@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - <img src="https://media.giphy.com/media/sKXGDl3OvWTBLNS6y2/giphy.gif" width="30"/>&nbsp;&nbsp;&nbsp; I’m looking to collaborate on **open-source programs**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python**
 
-⚙ Skills
+**⚙ Skills**
 
 - <h2 align="left">🧠 Languages and Tools:</h2>
 
