@@ -19,7 +19,18 @@ Here are some ideas to get you started:
 
      [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,git,gitlab,linux)](https://skillicons.dev)
 
+## 📇 Social & Contact
 
+<div align="left">
+  <a href="peimandaii2012@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="[https://www.linkedin.com/in/arasgungore](https://www.linkedin.com/in/peymandaeirezaei/)" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="[https://github.com/arasgungor](https://github.com/Peyman2012)e" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+
+   </a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyman2012&hide_progress=true)
 
