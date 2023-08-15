@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machin learning and Python
 - 👯 I’m looking to collaborate on I am looking for cooperation in startups for now
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peyman2012)](https://github.com/Peyman2012/github-readme-stats)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyman2012&hide_progress=true)
