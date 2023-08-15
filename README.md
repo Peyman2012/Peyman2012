@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,linux)](https://skillicons.dev)
    - **🛠 _Technologies:_**
      <div align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+     <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
   &nbsp; &nbsp;
