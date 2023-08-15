@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Python, ML, Data science**
 - 👯 I’m looking to collaborate on I am looking for cooperation in startups for now
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **python **
+- <h2 align="left">🧠 Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,git,gitlab,linux)](https://skillicons.dev)
 
