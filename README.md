@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on freelancer
-- 🌱 I’m currently learning Machin learning and Python
+- <img src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" width="35"/>&nbsp;&nbsp;&nbsp;  I’m currently working on **computer science**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Python, ML, Data science**
 - 👯 I’m looking to collaborate on I am looking for cooperation in startups for now
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **python **
 
